@@ -1,0 +1,99 @@
+body
+{
+    background-image: url("pink_rice.webp");
+    
+}
+.header{
+    margin-top: 80px;
+    margin-left: 80px;
+    color: rgb(216, 27, 122);
+    font-family: 'Lato', sans-serif;
+    font-size: larger;
+    text-decoration: underline;
+}
+.acercademi{
+    margin-top: 15px;
+    margin-left: 80px;    
+    display: flex;
+}
+
+.descripciontexto{
+    float: left;
+    }
+.fotodeperfil{
+    
+    float: right;
+    max-width: 280px;
+
+}
+.datospersonales{
+    margin-top: 300px;
+    margin-left: 80px;
+}
+
+.acercademi
+{
+    font-size: 26px;
+}
+.Categorias{
+    font-size: 26px;
+    text-decoration: underline;
+}
+.academica
+{
+    text-decoration: underline;
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Habilidades{margin-top: 300px;
+    margin-left: 80px;}
+.Aspiraciones{
+    margin-top: 300px;
+    margin-left: 80px;
+}
+.divisor{
+    margin-top: 300px;
+    margin-left: 80px;
+}
+.Secacademica{
+    margin-top: 300px;
+    margin-left: 80px;
+}
+.boton{
+    margin-top: 200px;
+    margin-left: 80px;
+}
+#Instagram {
+    text-align: center;
+    display: inline-block;
+    padding: 15px 40px;
+    border: 1px solid #fff;
+    cursor: pointer;
+    letter-spacing: 2px;
+    position:relative;
+    overflow:hidden;
+    margin: 0 20px;
+}
+#Facebook {
+    text-align: center;
+    display: inline-block;
+    padding: 15px 40px;
+    border: 1px solid #fff;
+    cursor: pointer;
+    letter-spacing: 2px;
+    position:relative;
+    overflow:hidden;
+    margin: 0 20px;
+}
+
+.navigationbar {
+    background-color: rgb(131, 190, 149);
+    border: 8px solid;
+	padding: 1rem;
+    border-image: linear-gradient(45deg, rgb(25, 187, 187), rgb(163, 63, 101)) 1;
+    scroll-behavior: smooth;
+    padding-bottom: 30px;
+}
+html {
+    scroll-behavior: smooth;
+  }
